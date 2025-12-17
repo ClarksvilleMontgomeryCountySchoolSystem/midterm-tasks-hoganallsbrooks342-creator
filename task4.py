@@ -1,5 +1,5 @@
 books = 12
-if books >= 10
+if books > 10:
     print("You have a lot of books!")
 
 
